@@ -22,8 +22,8 @@ v8.16.0
 Start with cloning this repo on your local machine:
 
 ```sh
-$ git clone https://github.com/Zeeohn/MERN-todo-1.git
-$ cd client
+$ git clone https://github.com/slimprepdevops/react-todo-client-01.git
+$ cd react-todo-client-01
 ```
 
 To install and set up the library, run:
