@@ -49,8 +49,8 @@ pipeline {
         stage('Clean-Up') {
             steps {
                 echo 'Remove unwanted files'
-                sh 'sudo rm -R node_modules'
-                sh "sudo rm -R build"
+                sh 'rm -R node_modules'
+                sh "rm -R build"
             }
         }
     }
